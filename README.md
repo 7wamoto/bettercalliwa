@@ -1,7 +1,7 @@
 # bettercalliwa
-'__say my name__'<br/>
-'__iwa__'<br/>
-'__you are god damn right__'<br>
+'__say my name__'  
+'__iwa__'  
+'__you are god damn right__'  
 
 - 👋 Hi, i am iwamoto and this is the edge of the internet. why are you looking into a random person's github you pervert.
 - 👀 I will track you down and find out who you are.
